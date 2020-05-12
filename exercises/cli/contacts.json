@@ -1,7 +1,22 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
+  "Nadya Minkova": {
+    "firstName": "Nadya",
+    "lastName": "Minkova",
+    "phoneNumber": "123456789"
+  },
+  "Georgia Minkova": {
+    "firstName": "Georgia",
+    "lastName": "Minkova",
+    "phoneNumber": "987654321"
+  },
+  "TOM Cat": {
+    "firstName": "TOM",
+    "lastName": "Cat",
+    "phoneNumber": "5465"
+  },
+  "Jummy Henriks": {
+    "firstName": "Jummy",
+    "lastName": "Henriks",
+    "phoneNumber": "55555"
   }
 }
